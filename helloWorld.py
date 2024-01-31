@@ -1,5 +1,5 @@
 # helloWorld.py
-# This progeam prints Hello World
+# This program prints Hello World
 # Author: Cian Gallagher
 
 print('Hello World')
